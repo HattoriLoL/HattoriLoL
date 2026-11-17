@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="see you at 3 AM">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b0a3c"/><stop offset="1" stop-color="#07011a"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff2e97" stop-opacity=".1"/><stop offset="1" stop-color="#ff2e97" stop-opacity=".8"/></linearGradient>
+<filter id="glow" x="-20%" y="-100%" width="140%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.t{font:600 14px 'Courier New',monospace;letter-spacing:3px}
+.g{animation:g 2.4s linear infinite}@keyframes g{from{transform:translateY(0)}to{transform:translateY(20px)}}</style>
+<rect width="1200" height="140" fill="url(#bg)"/>
+<clipPath id="c"><rect x="0" y="40" width="1200" height="100"/></clipPath><g clip-path="url(#c)"><g class="g">
+<line x1="0" y1="20" x2="1200" y2="20" stroke="#ff2e97" stroke-opacity=".5" stroke-width="1"/>
+<line x1="0" y1="40" x2="1200" y2="40" stroke="#ff2e97" stroke-opacity=".5" stroke-width="1"/>
+<line x1="0" y1="60" x2="1200" y2="60" stroke="#ff2e97" stroke-opacity=".5" stroke-width="1"/>
+<line x1="0" y1="80" x2="1200" y2="80" stroke="#ff2e97" stroke-opacity=".5" stroke-width="1"/>
+<line x1="0" y1="100" x2="1200" y2="100" stroke="#ff2e97" stroke-opacity=".5" stroke-width="1"/>
+<line x1="0" y1="120" x2="1200" y2="120" stroke="#ff2e97" stroke-opacity=".5" stroke-width="1"/>
+<line x1="0" y1="140" x2="1200" y2="140" stroke="#ff2e97" stroke-opacity=".5" stroke-width="1"/>
+</g></g>
+<line x1="264" y1="40" x2="-2040" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="278" y1="40" x2="-1930" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="292" y1="40" x2="-1820" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="306" y1="40" x2="-1710" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="320" y1="40" x2="-1600" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="334" y1="40" x2="-1490" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="348" y1="40" x2="-1380" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="362" y1="40" x2="-1270" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="376" y1="40" x2="-1160" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="390" y1="40" x2="-1050" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="404" y1="40" x2="-940" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="418" y1="40" x2="-830" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="432" y1="40" x2="-720" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="446" y1="40" x2="-610" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="460" y1="40" x2="-500" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="474" y1="40" x2="-390" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="488" y1="40" x2="-280" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="502" y1="40" x2="-170" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="516" y1="40" x2="-60" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="530" y1="40" x2="50" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="544" y1="40" x2="160" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="558" y1="40" x2="270" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="572" y1="40" x2="380" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="586" y1="40" x2="490" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="600" y1="40" x2="600" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="614" y1="40" x2="710" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="628" y1="40" x2="820" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="642" y1="40" x2="930" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="656" y1="40" x2="1040" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="670" y1="40" x2="1150" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="684" y1="40" x2="1260" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="698" y1="40" x2="1370" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="712" y1="40" x2="1480" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="726" y1="40" x2="1590" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="740" y1="40" x2="1700" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="754" y1="40" x2="1810" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="768" y1="40" x2="1920" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="782" y1="40" x2="2030" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="796" y1="40" x2="2140" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="810" y1="40" x2="2250" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="824" y1="40" x2="2360" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="838" y1="40" x2="2470" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="852" y1="40" x2="2580" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="866" y1="40" x2="2690" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="880" y1="40" x2="2800" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="894" y1="40" x2="2910" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="908" y1="40" x2="3020" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="922" y1="40" x2="3130" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<line x1="936" y1="40" x2="3240" y2="140" stroke="#ff2e97" stroke-opacity=".45" stroke-width="1"/>
+<rect x="0" y="39" width="1200" height="2" fill="#00f0ff" filter="url(#glow)"/>
+<text x="600.0" y="26" text-anchor="middle" class="t" fill="#b967ff">see you at 3 AM · thanks for stopping by</text>
+</svg>

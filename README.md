@@ -1,36 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=190&section=header&text=HattoriLoL&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Game%20dev%20%C2%B7%20Tools%20%C2%B7%203D%20pipelines&descAlignY=58&descSize=18" width="100%" alt="HattoriLoL"/>
+<img src="assets/banner.svg" width="100%" alt="HattoriLoL — game dev · tools · 3D pipelines"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+the+tools+behind+my+games;Photo+%E2%86%92+tileable+PBR+material;Image+%E2%86%92+rigged+3D+model;Floor+plan+%E2%86%92+game-ready+map;Baked+AO%2C+lightmaps+and+light+probes" alt="Building the tools behind my games"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=00F0FF&center=true&vCenter=true&width=640&lines=%F0%9F%8E%A7+lo-fi+beats+to+bake+lightmaps+to;photo+%E2%86%92+tileable+PBR+material;image+%E2%86%92+rigged+3D+model;floor+plan+%E2%86%92+game-ready+map;it's+3+AM+and+the+build+is+green+%E2%9C%A8" alt="lo-fi beats to bake lightmaps to"/>
 
 </div>
 
-## 👾 About me
+## 🌃 About me
 
 I make games — and, mostly, the tools behind them: a chain of small programs that turns photos, images and floor
-plans into game-ready 3D maps for **Godot**.
+plans into game-ready 3D maps for **Godot**. Usually late at night, with lo-fi on.
 
-- 🎮 Game development with Godot 4
-- 🧱 Blender automation: headless scripts, Cycles bakes, `.glb` in and out
-- 🤖 AI-assisted asset creation, using only commercially licensed models
+```console
+hattori@night-city:~$ status
+  🎧 now playing   lo-fi beats to bake lightmaps to
+  ☕ coffee        3rd cup
+  🛠️ building      a 3D asset pipeline for Godot games
+  🤖 AI rule       commercially licensed models only
+```
 
-## 🧰 Tech
+## ⚡ Tech
 
 <p>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"/>
-  <img src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript"/>
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/glTF-87C540?style=for-the-badge&logo=khronosgroup&logoColor=white" alt="glTF"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Godot-1b0a3c?style=for-the-badge&logo=godotengine&logoColor=00f0ff" alt="Godot"/>
+  <img src="https://img.shields.io/badge/GDScript-1b0a3c?style=for-the-badge&logo=godotengine&logoColor=ff2e97" alt="GDScript"/>
+  <img src="https://img.shields.io/badge/Blender-1b0a3c?style=for-the-badge&logo=blender&logoColor=ff9e2e" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Python-1b0a3c?style=for-the-badge&logo=python&logoColor=fffb96" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-1b0a3c?style=for-the-badge&logo=numpy&logoColor=00f0ff" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/JavaScript-1b0a3c?style=for-the-badge&logo=javascript&logoColor=fffb96" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/glTF-1b0a3c?style=for-the-badge&logo=khronosgroup&logoColor=b967ff" alt="glTF"/>
+  <img src="https://img.shields.io/badge/Linux-1b0a3c?style=for-the-badge&logo=linux&logoColor=ff2e97" alt="Linux"/>
 </p>
 
 ## 🔗 The asset pipeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1b0a3c','primaryTextColor':'#ffffff','primaryBorderColor':'#ff2e97','lineColor':'#00f0ff','fontFamily':'monospace'}}}%%
 flowchart LR
     A["📷 Photo / AI image"] --> T["🎨 TextureMaker<br/>PBR materials"]
     A --> M["🗿 MonkAI<br/>3D models + rig"]
@@ -55,5 +60,5 @@ flowchart LR
 <sub>Most of these are private while in development.</sub>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=110&section=footer" width="100%" alt=""/>
+<img src="assets/footer.svg" width="100%" alt="see you at 3 AM"/>
 </div>
